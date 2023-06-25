@@ -1,3 +1,5 @@
+Please hit the apis using postman.
+
 # Information about API:
 ### Theme:
 - We’re going to design an API for the doctors of a Hospital which has been allocated by the
